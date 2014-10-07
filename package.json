@@ -1,24 +1,18 @@
 {
-  "name": "loglevel",
+  "name": "clay-loglevel",
   "description": "Minimal lightweight logging for JavaScript, adding reliable log level methods to any available console.log methods",
   "version": "1.1.0",
-  "homepage": "https://github.com/pimterry/loglevel",
-  "author": {
-    "name": "Tim Perry",
-    "email": "pimterry@gmail.com",
-    "url": "http://tim-perry.co.uk"
-  },
+  "homepage": "https://github.com/claydotio/loglevel",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pimterry/loglevel.git"
+    "url": "git://github.com/claydotio/loglevel.git"
   },
   "bugs": {
-    "url": "https://github.com/pimterry/loglevel/issues"
+    "url": "https://github.com/claydotio/loglevel/issues"
   },
   "licenses": [
     {
-      "type": "MIT",
-      "url": "https://github.com/pimterry/loglevel/blob/master/LICENSE-MIT"
+      "type": "MIT"
     }
   ],
   "main": "lib/loglevel",
